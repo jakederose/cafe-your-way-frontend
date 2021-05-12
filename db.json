@@ -1,0 +1,565 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hot Chocolate",
+      "description": "Steamed milk and mocha sauce topped with sweetened whipped cream and a chocolate-flavored drizzle. A timeless classic made to sweeten your spirits..",
+      "imageUrl": "https://www.noracooks.com/wp-content/uploads/2018/12/square.jpg",
+      "price": 2.5
+    },
+    {
+      "id": 2,
+      "name": "Hot Tea",
+      "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+      "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 1.5
+    },
+    {
+      "id": 3,
+      "name": "Latte",
+      "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+      "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 3
+    },
+    {
+      "id": 4,
+      "name": "Blueberry Muffin",
+      "description": "This delicious muffin is dotted throughout with sweet, juicy blueberries and a hint of lemon and dusted on top with sugar for a delightfully crunchy texture.",
+      "imageUrl": "https://images.pexels.com/photos/90609/pexels-photo-90609.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 2.5
+    },
+    {
+      "id": 5,
+      "name": "Crossiant",
+      "description": "Light, flaky, real butter croissant dough wrapped around two chocolate batons creates a perfect balance that'll satisfy your sweet tooth and bring on a moment of bliss.",
+      "imageUrl": "https://images.pexels.com/photos/1775037/pexels-photo-1775037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 1.5
+    },
+    {
+      "id": 6,
+      "name": "Doughnut",
+      "description": "A doughnut glazed with delicious, sweet icing—made with old-fashioned scrumptiousness.",
+      "imageUrl": "https://images.pexels.com/photos/3253735/pexels-photo-3253735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Hot Chocolate",
+        "description": "Steamed milk and mocha sauce topped with sweetened whipped cream and a chocolate-flavored drizzle. A timeless classic made to sweeten your spirits..",
+        "imageUrl": "https://www.noracooks.com/wp-content/uploads/2018/12/square.jpg",
+        "price": 2.5
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Doughnut",
+        "description": "A doughnut glazed with delicious, sweet icing—made with old-fashioned scrumptiousness.",
+        "imageUrl": "https://images.pexels.com/photos/3253735/pexels-photo-3253735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 2
+      },
+      "id": 16
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 17
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 18
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 19
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Blueberry Muffin",
+        "description": "This delicious muffin is dotted throughout with sweet, juicy blueberries and a hint of lemon and dusted on top with sugar for a delightfully crunchy texture.",
+        "imageUrl": "https://images.pexels.com/photos/90609/pexels-photo-90609.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 2.5
+      },
+      "id": 20
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 21
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 22
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 23
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 24
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 25
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 26
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 27
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 28
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 29
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 30
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 31
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 32
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 33
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Doughnut",
+        "description": "A doughnut glazed with delicious, sweet icing—made with old-fashioned scrumptiousness.",
+        "imageUrl": "https://images.pexels.com/photos/3253735/pexels-photo-3253735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 2
+      },
+      "id": 34
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Crossiant",
+        "description": "Light, flaky, real butter croissant dough wrapped around two chocolate batons creates a perfect balance that'll satisfy your sweet tooth and bring on a moment of bliss.",
+        "imageUrl": "https://images.pexels.com/photos/1775037/pexels-photo-1775037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 35
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Doughnut",
+        "description": "A doughnut glazed with delicious, sweet icing—made with old-fashioned scrumptiousness.",
+        "imageUrl": "https://images.pexels.com/photos/3253735/pexels-photo-3253735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 2
+      },
+      "id": 36
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Hot Chocolate",
+        "description": "Steamed milk and mocha sauce topped with sweetened whipped cream and a chocolate-flavored drizzle. A timeless classic made to sweeten your spirits..",
+        "imageUrl": "https://www.noracooks.com/wp-content/uploads/2018/12/square.jpg",
+        "price": 2.5
+      },
+      "id": 37
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 38
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 39
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 40
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 41
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 42
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Hot Chocolate",
+        "description": "Steamed milk and mocha sauce topped with sweetened whipped cream and a chocolate-flavored drizzle. A timeless classic made to sweeten your spirits..",
+        "imageUrl": "https://www.noracooks.com/wp-content/uploads/2018/12/square.jpg",
+        "price": 2.5
+      },
+      "id": 43
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Hot Tea",
+        "description": "Black tea infused with warm clove, cardamom, cinnamon and ginger notes. A bold, distinctive chai tea.",
+        "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 1.5
+      },
+      "id": 44
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 45
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 46
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Doughnut",
+        "description": "A doughnut glazed with delicious, sweet icing—made with old-fashioned scrumptiousness.",
+        "imageUrl": "https://images.pexels.com/photos/3253735/pexels-photo-3253735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 2
+      },
+      "id": 47
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 48
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Doughnut",
+        "description": "A doughnut glazed with delicious, sweet icing—made with old-fashioned scrumptiousness.",
+        "imageUrl": "https://images.pexels.com/photos/3253735/pexels-photo-3253735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 2
+      },
+      "id": 49
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Latte",
+        "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "imageUrl": "https://images.pexels.com/photos/347144/pexels-photo-347144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 3
+      },
+      "id": 50
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
